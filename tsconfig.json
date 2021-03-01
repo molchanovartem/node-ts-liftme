@@ -1,0 +1,14 @@
+ {
+  "compilerOptions": {
+    "lib": [
+      "DOM",
+      "ES2015",
+    ],
+    "outDir": "dist/src",
+    "rootDir": "src",
+    "strict": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+  }
+}
+
